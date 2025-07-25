@@ -71,3 +71,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     display: flex;
 
 }
+table{
+    height: 80%;
+    width: 80%;
+}
